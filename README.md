@@ -1,4 +1,4 @@
 # git_test
 My first GitHub repo!!
 Hello Odin!
-Shalom there young scallywag.
+I am very excited to be starting my first Github repo!!
